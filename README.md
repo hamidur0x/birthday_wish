@@ -66,7 +66,7 @@ Folder: /root
 Edit:
 ```js
 const songMappings = {
-2: { title: "Song Name", videoId: "VIDEO_ID", startTime: 30 },
+2: { title: "Song Name", videoId: "VIDEO_ID", startTime: TIME_WHEN_IT_WILL_START_IN_SECONDS },
 };
 ````
 
