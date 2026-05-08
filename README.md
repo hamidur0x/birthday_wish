@@ -15,10 +15,10 @@ A premium cinematic digital songbook experience that blends memories, music, and
 - 👆 Swipe + keyboard navigation support  
 - 🎧 Smooth background music transitions  
 
----
+
+```
 
 ## 📂 Project Structure
-```
 
 ```bash
 
